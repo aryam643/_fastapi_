@@ -1,6 +1,6 @@
-# HROne E-commerce Backend API
+# E-commerce Backend API
 
-A FastAPI-based backend application built for the HROne Backend Intern task. It provides RESTful APIs for managing products and orders using MongoDB.
+A FastAPI-based backend application. It provides RESTful APIs for managing products and orders using MongoDB.
 
 ## Features
 
